@@ -40,7 +40,11 @@ nslookup pornhub.com
 ```
 **Expected (BLOCKED)**:
 ```
+Server:  UnKnown
+Address:  2606:4700:4700::1113
+
 *** UnKnown can't find pornhub.com: No response from server
+
 ```
 
 ---

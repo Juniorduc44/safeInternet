@@ -65,7 +65,8 @@ Address:  2606:4700:4700::1113
 ### 2.3 Test in Brave (InPrivate)
 1. Press `Ctrl+Shift+N`
 2. Go to: `pornhub.com`
-3. **Expected**: "This site can’t be reached" / `DNS_PROBE_FINISHED_NXDOMAIN`
+3. **Expected**: "This site can’t be reached" / `pornhub.com’s DNS address could not be found. Diagnosing the problem.
+DNS_PROBE_POSSIBLE`
 
 ---
 

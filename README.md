@@ -54,8 +54,8 @@ Address:  2606:4700:4700::1113
 ### 2.1 Disable Brave Secure DNS
 1. Open **Brave**
 2. Go to: `brave://settings/security?search=dns`
-3. Find **"Use secure DNS"**
-4. **Select DNS Provider**  
+3. Find **"Select DNS Provider"**
+4. **Press the following**  
    → CleanBrowser (Family filter)**
 
 ### 2.2 Clear Brave DNS Cache

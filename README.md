@@ -77,8 +77,8 @@ DNS_PROBE_POSSIBLE`
 2. Go to: `edge://settings/privacy`
 3. Scroll to **Security**
 4. Find **"Use secure DNS"**
-5. **Turn OFF**  
-   → Edge now uses **system DNS (1.1.1.3)**
+5. **Press "Choose a service provider**  
+   → CleanBrowing (Family Filter)**
 
 ### 3.2 Clear Edge DNS Cache
 1. Go to: `edge://net-internals/#dns`
